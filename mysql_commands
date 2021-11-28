@@ -1,0 +1,10 @@
+#Login to mysql
+mysql -u <username> -p
+#to see Databases
+show_databases;
+#use a database
+use <databasename>;
+#to see tables
+show tables;
+#to view data in a specifyc table
+select * from <table name>;
